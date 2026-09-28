@@ -35,3 +35,4 @@ A container being `Up` is not sufficient evidence that the application inside it
 
 - [001 — Docker network connectivity](./001-docker-network-connectivity.md)
 - [002 — Docker port and HTTP troubleshooting](./002-docker-port-troubleshooting.md)
+- [003 — Container lifecycle and PID 1](./003-container-lifecycle-pid1.md)
